@@ -1,0 +1,43 @@
+#container {
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+header {
+	//margin-top:0.2em;
+	color: white;
+	text-align: center;
+	width:50%; margin-left: auto; margin-right: auto;
+	}
+
+main {
+	display: block;
+	font-family: Georgia, "Times New Roman", sans-serif;
+	font-size: 1em;
+	}
+.text {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+/* Style for the footer specifies font size, text alignment, and top margin */
+footer {
+	font-size: .70em;
+	text-align: center;
+	margin-top: 2em;
+	}
+#container {
+	width: 50%;
+	}
+.textarea{
+	height: 50px;
+	width: 100%; }
+
+.p{	align-content: justify;
+	align-content: center;
+  }
+
+
+}
